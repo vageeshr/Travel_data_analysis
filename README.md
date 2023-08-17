@@ -15,3 +15,12 @@ The key objectives of this project are as follows:
 5. Time-based Analysis: The project includes a temporal analysis to identify seasonal patterns in travel, allowing insights into peak travel months and off-peak periods.
 
 6. Conclusions and Insights: The project concludes with summarizing the findings and insights derived from the data analysis. It provides a comprehensive understanding of the travel trends and patterns present in the dataset.
+
+Contributing
+Contributions to this project are welcome. If you identify improvements, bug fixes, or additional analyses that could enhance the project, please consider opening an issue or submitting a pull request.
+
+License
+This project is licensed under the MIT License.
+
+Contact Information
+For any questions or inquiries about the project, you can reach out to the project author, vageeshr, on GitHub.
